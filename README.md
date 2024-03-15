@@ -46,3 +46,7 @@ Step 4: Upon completing the data transformation, click on 'Close & Apply' locate
 
 ## 🎉Profit Margin Calculation:
 PROFIT MARGIN = ((TOTAL SALES - TOTAL COST) / TOTAL SALES) * 100
+
+# Final Output
+![image](https://github.com/NishadiSS/MeriSKILL-Internship-Sales-Data-Analysis/assets/119886016/21bb2c34-000d-436f-9467-c3e8dae6579d)
+
