@@ -38,11 +38,11 @@ Step 4: Upon completing the data transformation, click on 'Close & Apply' locate
 #### Step 7: Calculate revenue metrics including total profit, sales quantity, and profit margin. Use the "Card" visualization type to display these metrics.
 
 # 💫Calculation Functions
-## Find the total cost 
+## 🎉Find the total cost 
 ![image](https://github.com/NishadiSS/MeriSKILL-Internship-Sales-Data-Analysis/assets/119886016/386f5b1e-e031-4c4a-b438-772e5a6c16da)
 
-## Find the total sales
+## 🎉Find the total sales
 ![image](https://github.com/NishadiSS/MeriSKILL-Internship-Sales-Data-Analysis/assets/119886016/73be7a84-8bf8-4a36-88ed-afa83f3eb744)
 
-## Profit Margin Calculation:
+## 🎉Profit Margin Calculation:
 PROFIT MARGIN = ((TOTAL SALES - TOTAL COST) / TOTAL SALES) * 100
