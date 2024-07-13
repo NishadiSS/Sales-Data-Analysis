@@ -1,7 +1,7 @@
-# 🎊MeriSKILL Internship: Sales Data Analysis Project🎊
+# 🎊Sales Data Analysis Project🎊
 
 # 💫Introduction:
-Welcome to the MeriSKILL Internship Sales Data Analysis project! This project aims to analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
+This project aims to analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
 
 # 💫Purpose:
 The purpose of this project is to extract valuable insights from a large sales dataset to enhance strategic decision-making in businesses.
